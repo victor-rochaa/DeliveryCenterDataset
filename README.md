@@ -1,0 +1,1 @@
+Este repositório contém os códigos utilizados para a solução do desafio proposto no Laboratório de PRO3601 - Análise Massiva de Dados para Gestão de Operações, no ano de 2022.
