@@ -1,5 +1,5 @@
 ﻿EXPORT record_raw := MODULE
-	EXPORT rec_hubs :=	RECORD
+    EXPORT rec_hubs :=	RECORD
     STRING hub_id;
     STRING hub_name;
     STRING hub_city;
